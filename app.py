@@ -91,7 +91,6 @@ def main():
         web_name = "EspressoIn - Tools"  
         web_name_html = f'<div style="display: flex; align-items: center;"><a href="{web_name_url}" target="_blank" style="text-decoration: none; color: #0078FF;"><h1>{web_name}</h1></a></div>'
         st.markdown(web_name_html, unsafe_allow_html=True)
-    st.write("Still under development! Any feedback and bug reports are welcome")
     
     st.write("---")
 
@@ -105,6 +104,8 @@ def main():
         web_name = "EspressoIn - Tools" 
         web_name_html = f'<div style="display: flex; align-items: center;"><a href="{web_name_url}" target="_blank" style="text-decoration: none; color: #0078FF;"><h1>{web_name}</h1></a></div>'
         st.sidebar.markdown(web_name_html, unsafe_allow_html=True)
+    
+    st.sidebar.write("Still under development! Any feedback and bug reports are welcome")
     
     st.sidebar.write("---")
 
