@@ -1,6 +1,6 @@
 # EspressoIn Tools
 
-EspressoIn Tools is a Python-based web application built using Streamlit, designed to visualise band structures of materials. The application allows users to upload band structure data in the format compatible with Quantum ESPRESSO, calculate the band gap, and customise the plot appearance.
+[EspressoIn Tools](https://espresoin-tools.streamlit.app/) is a Python-based web application built using Streamlit, designed to visualise band structures of materials. The application allows users to upload band structure data in the format compatible with Quantum ESPRESSO, calculate the band gap, and customise the plot appearance.
 
 ## Features
 - Load Band Structure Data: Upload your band structure data in .dat or .gnu format.
