@@ -22,5 +22,3 @@
 
 ## Version
 Current Version: 1.0.0
-
-The Change Log section provides a summary of changes made in each version of the application. You can update this section with new releases by adding a new entry for each version, mentioning the date, and listing the changes introduced in that particular release.
